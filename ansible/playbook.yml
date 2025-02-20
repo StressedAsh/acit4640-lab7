@@ -10,7 +10,7 @@
 
     - name: Create directory structure for web documents
       ansible.builtin.file:
-        path: /var/www/html
+        path: /web/html
         state: directory
         owner: www-data
         group: www-data
