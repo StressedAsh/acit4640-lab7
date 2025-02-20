@@ -1,5 +1,8 @@
 # 4640-w7-lab-start-w25
+# 1 Screenshot
 
-Starter files for the intro to Ansible lab.
+![[Pasted image 20250220105858.png]]
+# 2 Screenshot
+![[Pasted image 20250220105959.png]]
 
-See D2L for lab instructions
+![[Pasted image 20250220105837.png]]
