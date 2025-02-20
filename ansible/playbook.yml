@@ -33,7 +33,7 @@
     - name: Generate system information page from template
       ansible.builtin.template:
         src: templates/index.html.j2
-        dest: /var/www/html/index.html
+        dest: /web/html/index.html
         owner: www-data
         group: www-data
         mode: "0644"
